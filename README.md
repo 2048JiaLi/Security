@@ -1,2 +1,9 @@
 # Security
-安全技术相关
++ 黑客教程及破解程序讨论的网站如下
+   + http://hackaday.com/
+   + https://evilzone.org/
+   + https://www.hackthissite.org/
+   + http://breakthesecurity.cysecurity.org/
+   + https://www.eccouncil.org/Certification/certified-ethical-hacker
+   + http://www.hitb.org/
+   + http://sectools.org/
